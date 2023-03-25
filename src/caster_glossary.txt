@@ -1,0 +1,20 @@
+Aura: a passive ability that grants an advantage to your champion as well as nearby allies.
+Backdoor (BD): attacking an enemy, tower, or enemy base without the support of minions.
+Bruiser / Offtank: a champion capable of taking hits without being a pure tank and therefore able to deal heavy damage as well.
+Dive: the literal meaning of this word is "to plunge." In a game, a dive involves ignoring the opposing tower to flush out (and therefore kill) one or more enemies hiding there.
+Deny: a practice originating from DOTA that involves preventing the opponent from killing minions to deny them gold and, more importantly, experience.
+Hybrid: playing both as AP and AD.
+Snowball: the same principle as a snowball rolling down a mountain. You have taken an advantage or have the advantage from the beginning of the game, and with this advantage, you become increasingly powerful.
+Squishy: used to describe a fragile champion with low health/resistance/armor.
+Burst: to "burst an enemy" means to inflict heavy damage on them in a short amount of time or with a single ability.
+Care (to be careful): frequently used to warn of potential danger.
+Chase: the act of running after an opponent to catch them.
+Kite: luring an enemy champion away from their teammates.
+Roam: frequently moving around the map (usually to help allies on another lane early/mid-game).
+Scout: acting as a scout to check if the enemy is in a specific area of the map.
+AOE (area of effect): defines the range of an ability that can affect multiple enemies within its field.
+Blind: an effect that temporarily blinds an enemy champion, causing them to miss attacks.
+Dodge: to avoid an attack.
+Disease: the champion affected by this effect sees the value of healing they receive reduced significantly.
+Fear: the champion affected by this effect loses the ability to move on their own temporarily as they are frightened.
+Snare: the champion affected by this effect is slowed down.
