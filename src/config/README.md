@@ -1,6 +1,6 @@
 ## Assets
-- Blue color: #2E55C5
-- Red color: #AF3629
+- Blue color: #0089AF | #2E55C5
+- Red color: #AF3629 | #CD2E33
 - Font: Shentox-SemiBold
 
 ## LoL Client interface size
